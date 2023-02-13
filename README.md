@@ -48,6 +48,6 @@ Here are some ideas to get you started:
   <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="eclipse.svg" alt="eclipse" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/fr/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> <img src="lightroom.png" alt="lightroom" width="40" height="40"/> </a> 
-  <a href="https://projects.laas.fr/tina/index.php" target="_blank" rel="noreferrer"> <img src="https://projects.laas.fr/tina/images/tina.png" alt="Tina" width="40" height="40" /> </a> 
+  <!-- <a href="https://projects.laas.fr/tina/index.php" target="_blank" rel="noreferrer"> <img src="https://projects.laas.fr/tina/images/tina.png" alt="Tina" width="40" height="40" /> </a> -->
 </p>
 
