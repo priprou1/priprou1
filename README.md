@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Priscilia</h1>
-<h4 align="center">A student in second year at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
+<h4 align="center">A student in second year (M1) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
