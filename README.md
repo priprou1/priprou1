@@ -19,6 +19,18 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Priscilia</h1>
 <h4 align="center">A student in second year (M1) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
 
+<h3 align="left">My projects at <a href="https://github.com/priprou1/ENSEEIHT" target="blank">ENSEEIHT</a>:</h3>
+<details>
+<summary>City Builder</summary>
+<br>
+  <div class="logo"><img src="jeu_1.png" width="150px" align="right"></div>
+Within a team of 7 students we have built a game of the type city-builder like sim-city. The aim of the project was to coordinate all our team in order to build a whole application in java during 4 months.
+  <br/>
+  <br/>
+  You can find the source code <a href="https://github.com/priprou1/ENSEEIHT/tree/master/Annee_1/Semestre_6/Technologie_Objet/Projet_Long" target="blank">here</a>.
+</details>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priscilia-gonthier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priscilia-gonthier" height="30" width="40" /></a>
