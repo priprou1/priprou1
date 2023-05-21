@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Priscilia</h1>
-<h4 align="center">A student in second year (M1) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
+<h1 align="center">Hi 👋, I'm Priscilia Gonthier !</h1>
+<h4 align="center">I'm a student in second year (M1) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
 
 <h3 align="left">My projects at ENSEEIHT:</h3>
 <details>
